@@ -23,7 +23,8 @@ This profile is a collection of the work I’ve done to make Microsoft 365 envir
 - **[Collaboration and SharePoint Automation](https://github.com/DoubleZJones/collaboration-and-sharepoint-automation)**  
 - **[Identity and Licensing Architecture](https://github.com/DoubleZJones/identity-and-licensing-architecture)**  
 - **[Teams Voice and Telephony Engineering](https://github.com/DoubleZJones/teams-voice-and-telephony-engineering)**  
-- **[Cross-Tenant and Migration Engineering](https://github.com/DoubleZJones/cross-tenant-and-migration-engineering)**  
+- **[Cross-Tenant and Migration Engineering](https://github.com/DoubleZJones/cross-tenant-and-migration-engineering)**
+- **[m365-powershell-automation](https://github.com/DoubleZJones/m365-powershell-automation)**
 
 ---
 
