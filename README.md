@@ -1,7 +1,7 @@
 # Hi, I'm Tio  
 I work in the Microsoft 365 ecosystem, building systems that behave the same way on Monday morning as they do on Friday at 4:59 PM.
 
-My focus is identity, security, automation, and the parts of collaboration that actually matter — the things that keep environments clean, predictable, and easy to support. Most of what I build comes from real-world gaps I’ve had to close, not theoretical best practices.
+My focus is identity, security, automation, and the parts of collaboration that actually matter the things that keep environments clean, predictable, and easy to support. Most of what I build comes from real-world gaps I’ve had to close, not theoretical best practices.
 
 This profile is a collection of the work I’ve done to make Microsoft 365 environments more stable, more secure, and easier for people to use.
 
