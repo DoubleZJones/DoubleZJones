@@ -1,4 +1,4 @@
-# Hi, I'm Tio  
+# Hi, My Name is Tio.
 I work in the Microsoft 365 ecosystem, building systems that behave the same way on Monday morning as they do on Friday at 4:59 PM.
 
 My focus is identity, security, automation, and the parts of collaboration that actually matter the things that keep environments clean, predictable, and easy to support. Most of what I build comes from real-world gaps I’ve had to close, not theoretical best practices.
@@ -65,4 +65,4 @@ I don’t chase complexity for the sake of it. I build things that last, things 
 ---
 
 ## Current Focus
-Building a complete engineering portfolio that reflects real Microsoft 365 work — identity, governance, automation, telephony, and everything in between.
+Building a real Microsoft 365 engineering portfolio that shows the actual work I do across identity, governance, automation, collaboration, telephony, and all the messy parts in between.
